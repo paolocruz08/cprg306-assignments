@@ -5,7 +5,8 @@ export default function Home() {
     <main>
       <h1>CPRG 306: Web Development 2 - Assignments</h1>
       <section>
-        <Link href="/week-2" className="hover:underline">Go to Week 2</Link>
+        <Link href="/week-2" className="hover:underline">Go to Week 2 -{'>'} </Link> 
+        <Link href="/week-3" className="hover:underline">Go to Week 3 -{'>'}</Link>
       </section>
     </main>
   );
