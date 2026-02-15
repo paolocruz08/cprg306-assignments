@@ -8,6 +8,7 @@ export default function Home() {
         <Link href="/week-2" className="hover:underline">Go to Week 2 -{'>'} </Link> 
         <Link href="/week-3" className="hover:underline">Go to Week 3 -{'>'} </Link>
         <Link href="/week-4" className="hover:underline">Go to Week 4 -{'>'} </Link>
+        <Link href="/week-5" className="hover:underline">Go to Week 5 -{'>'} </Link>
       </section>
     </main>
   );
