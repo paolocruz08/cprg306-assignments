@@ -13,7 +13,7 @@ export default function Home() {
         <Link href="/week-7" className="hover:underline">Go to Week 7 -{'>'} </Link>
         <Link href="/week-8" className="hover:underline">Go to Week 8 -{'>'} </Link>
         <Link href="/week-9" className="hover:underline">Go to Week 9 -{'>'} </Link>
-
+        <Link href="/week-10" className="hover:underline">Go to Week 10 -{'>'} </Link>
 
       </section>
     </main>
